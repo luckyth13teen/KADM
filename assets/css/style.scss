@@ -1,0 +1,31 @@
+/*!
+Theme Name: KADM
+Theme URI: http://underscores.me/
+Author: Partisan Pixel
+Author URI: https://www.partisanpixel.com
+Description: custom partisan starter theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: KADM
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Raleway&display=swap');
+@import "partials/variables";
+@import "/wp-content/themes/kadm/assets/css/flickity/flickity.css";
+@import "bs4.3/bootstrap.scss"; 
+@import "partials/wordpress"; 
+@import "partials/mixins";
+@import "partials/layout";
+@import "partials/type";
+@import "partials/animate";
+@import "partials/links-n-buttons";
+@import "partials/forms-n-tables";
+@import "partials/header";
+@import "partials/footer";
+@import "partials/front-page";
+@import "partials/blog";
+@import "partials/search";
+@import "partials/elements";
+@import "partials/print";
