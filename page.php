@@ -24,7 +24,7 @@ get_header();
 			
 			<div id="Video" class='video-box tac'>
 				<h2 class='white'> Video Demo Reel </h2>
-				<video width="100%" height="auto" poster="/wp-content/themes/KADM/assets/img/coverslide.jpg" controls="controls">
+				<video width="100%" height="auto" poster="/wp-content/themes/kadm/assets/img/coverslide.jpg" controls="controls">
 					<source src="/wp-content/uploads/2019/10/DReelKD.mp4" type="video/mp4">
 				</video>
 
