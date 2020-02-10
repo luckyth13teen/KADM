@@ -68,7 +68,6 @@
 
 //  Carousel flickity setups
 
-
 $('.main-carousel1').flickity({
 	// options
 	cellAlign: 'center',

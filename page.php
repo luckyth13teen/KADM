@@ -61,9 +61,9 @@ get_header();
 						<div class="responsive-image-wrap-slide carousel-cell">
 							<img src='/wp-content/uploads/2019/10/DSC00015-1800x1200.jpg'>
 						</div>
-						<div class="responsive-image-wrap-slide carousel-cell">
+						<!-- <div class="responsive-image-wrap-slide carousel-cell">
 							<img src='/wp-content/uploads/2019/10/DSC05089-1800x1200.jpg'>
-						</div>
+						</div> -->
 						<div class="responsive-image-wrap-slide carousel-cell">
 							<img src='/wp-content/uploads/2019/10/DSC05352-1800x1200.jpg'>
 						</div>
@@ -88,9 +88,9 @@ get_header();
 						<div class="responsive-image-wrap-slide carousel-cell">
 							<img src='/wp-content/uploads/2019/10/DSC09096-1800x1200.jpg'>
 						</div>
-						<div class="responsive-image-wrap-portrait-2 carousel-cell">
+						<!-- <div class="responsive-image-wrap-portrait-2 carousel-cell">
 							<img src='/wp-content/uploads/2019/10/DSC00233.jpg'>
-						</div>
+						</div> -->
 					</div>
 
 				<h3 id="Event" class='white carousel-title'> Event</h3>
@@ -135,9 +135,9 @@ get_header();
 						<div class="responsive-image-wrap-slide carousel-cell">
 							<img src='/wp-content/uploads/2019/10/DSC00157-1800x1200.jpg'>
 						</div>
-						<div class="responsive-image-wrap-portrait-2 carousel-cell">
+						<!-- <div class="responsive-image-wrap-portrait-2 carousel-cell">
 							<img src='/wp-content/uploads/2019/10/DSC08349.jpg'>
-						</div>
+						</div> -->
 						<div class="responsive-image-wrap-slide carousel-cell">
 							<img src='/wp-content/uploads/2019/10/f114467488-1800x1200.jpg'>
 						</div>
