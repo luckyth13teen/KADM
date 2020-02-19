@@ -37,121 +37,123 @@ get_header();
 				
 					<div class="main-carousel1">
 							<div class="responsive-image-wrap-portrait carousel-cell">
-								<img src='/wp-content/uploads/2019/10/DSC00139.jpg'>
+								<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00139.jpg'>
 							</div>
 							<div class="responsive-image-wrap-portrait carousel-cell">
-								<img src='/wp-content/uploads/2019/10/DSC00072-800x1200.jpg'>
+								<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00072-800x1200.jpg'>
 							</div>
 							<div class="responsive-image-wrap-portrait carousel-cell">
-								<img src='/wp-content/uploads/2019/10/DSC00127-800x1200.jpg'>
+								<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00127-800x1200.jpg'>
 							</div>
 							<div class="responsive-image-wrap-portrait carousel-cell">
-								<img src='/wp-content/uploads/2019/10/DSC08809-800x1200.jpg'>
+								<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC08809-800x1200.jpg'>
 							</div>
 							<div class="responsive-image-wrap-portrait carousel-cell">
-								<img src='/wp-content/uploads/2019/10/DSC00395-800x1200.jpg'>
+								<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00395-800x1200.jpg'>
 							</div>
 							<div class="responsive-image-wrap-portrait carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC08708-800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC08708-800x1200.jpg'>
 							</div>
 						</div>
 				
 				<h3 id="Landscape" class='white carousel-title'> Landscape </h3>
 					<div class="main-carousel4">
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00015-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00015-1800x1200.jpg'>
 						</div>
-						<!-- <div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC05089-1800x1200.jpg'>
-						</div> -->
+					
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC05352-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC05352-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/hawaiiVanagon-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/hawaiiVanagon-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00004-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00004-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00189.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00189.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00598-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00598-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00809-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00809-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00888-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00888-1800x1200.jpg'>
 						</div>
+						<div class="responsive-image-wrap-portrait-2 carousel-cell">
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00233.jpg'>
+						</div> 
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC09096-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC05089-1800x1200.jpg'>
+						</div> 
+						<div class="responsive-image-wrap-slide carousel-cell">
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC09096-1800x1200.jpg'>
 						</div>
-						<!-- <div class="responsive-image-wrap-portrait-2 carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00233.jpg'>
-						</div> -->
+						
 					</div>
 
 				<h3 id="Event" class='white carousel-title'> Event</h3>
 				
 					<div class="main-carousel2">
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00733-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00733-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00763-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00763-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC05941-1800x1200.jpg'>
-						</div>
-						<!-- <div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC07345.jpg'>
-						</div> -->
-						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC07403-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC05941-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC07532.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC07345.jpg'>
+						</div> 
+						<div class="responsive-image-wrap-slide carousel-cell">
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC07403-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/f121227704-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC07532.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/f256003816-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/f121227704-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/f317115832-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/f256003816-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/f340921232-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/f317115832-1800x1200.jpg'>
+						</div>
+						<div class="responsive-image-wrap-slide carousel-cell">
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/f340921232-1800x1200.jpg'>
 						</div>
 					</div>
 				<h3 id="Passion" class='white carousel-title'> Passion </h3>
 					<div class="main-carousel3">
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/f96180680-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/f96180680-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC00157-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC00157-1800x1200.jpg'>
 						</div>
-						<!-- <div class="responsive-image-wrap-portrait-2 carousel-cell">
-							<img src='/wp-content/uploads/2019/10/DSC08349.jpg'>
-						</div> -->
+						<div class="responsive-image-wrap-portrait-2 carousel-cell">
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/DSC08349.jpg'>
+						</div> 
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/f114467488-1800x1200.jpg'>
-						</div>
-						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/f134965488-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/f114467488-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/f199780784-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/f134965488-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/f239448992-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/f199780784-1800x1200.jpg'>
 						</div>
 						<div class="responsive-image-wrap-slide carousel-cell">
-							<img src='/wp-content/uploads/2019/10/IMG_3693-1800x1200.jpg'>
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/f239448992-1800x1200.jpg'>
+						</div>
+						<div class="responsive-image-wrap-slide carousel-cell">
+							<img data-flickity-lazyload='/wp-content/uploads/2019/10/IMG_3693-1800x1200.jpg'>
 						</div>
 					
 						

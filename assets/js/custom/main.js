@@ -73,7 +73,7 @@ $('.main-carousel1').flickity({
 	cellAlign: 'center',
 	contain: true,
 	imagesLoaded: true,
-	autoPlay: 4500,
+	
 	lazyLoad: 2,
 	wrapAround: true
 	});
@@ -83,7 +83,7 @@ $('.main-carousel2').flickity({
 	cellAlign: 'center',
 	contain: true,
 	imagesLoaded: true,
-	autoPlay: 4800,
+	
 	lazyLoad: 2,
 	wrapAround: true
 	});
@@ -93,7 +93,7 @@ $('.main-carousel3').flickity({
 	cellAlign: 'center',
 	contain: true,
 	imagesLoaded: true,
-	autoPlay: 5000,
+	
 	lazyLoad: 2,
 	wrapAround: true
 	});
@@ -103,7 +103,7 @@ $('.main-carousel4').flickity({
 	cellAlign: 'center',
 	contain: true,
 	imagesLoaded: true,
-	autoPlay: 5000,
+	
 	lazyLoad: 2,
 	wrapAround: true
 	});	

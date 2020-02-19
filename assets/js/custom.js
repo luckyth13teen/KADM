@@ -61,7 +61,6 @@
     cellAlign: 'center',
     contain: true,
     imagesLoaded: true,
-    autoPlay: 4500,
     lazyLoad: 2,
     wrapAround: true
   });
@@ -70,7 +69,6 @@
     cellAlign: 'center',
     contain: true,
     imagesLoaded: true,
-    autoPlay: 4800,
     lazyLoad: 2,
     wrapAround: true
   });
@@ -79,7 +77,6 @@
     cellAlign: 'center',
     contain: true,
     imagesLoaded: true,
-    autoPlay: 5000,
     lazyLoad: 2,
     wrapAround: true
   });
@@ -88,7 +85,6 @@
     cellAlign: 'center',
     contain: true,
     imagesLoaded: true,
-    autoPlay: 5000,
     lazyLoad: 2,
     wrapAround: true
   }); // smooth scroll for #IDs
